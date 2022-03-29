@@ -1,0 +1,15 @@
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\Tiedosto.exe
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\Tiedosto.deps.json
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\Tiedosto.runtimeconfig.json
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\Tiedosto.dll
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\ref\Tiedosto.dll
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\bin\Debug\net6.0\Tiedosto.pdb
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.csproj.AssemblyReference.cache
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.AssemblyInfoInputs.cache
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.AssemblyInfo.cs
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.dll
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\ref\Tiedosto.dll
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.pdb
+C:\Ohjelmointi\Tiedosto käsittely\Tiedosto\Tiedosto\obj\Debug\net6.0\Tiedosto.genruntimeconfig.cache
